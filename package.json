@@ -1,5 +1,5 @@
 {
-  "name": "storybook-prototype",
+  "name": "@edames/storybook-prototype",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,6 +15,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/edames/Storybook-Prototype/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@edames"
   },
   "homepage": "https://github.com/edames/Storybook-Prototype#readme",
   "devDependencies": {
