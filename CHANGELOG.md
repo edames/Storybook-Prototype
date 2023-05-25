@@ -1,3 +1,16 @@
+# v1.0.4 (Thu May 25 2023)
+
+#### ⚠️ Pushed to `main`
+
+- chore: resolve merge conflict ([@edames](https://github.com/edames))
+- chore: update package name ([@edames](https://github.com/edames))
+
+#### Authors: 1
+
+- Ehren Dames ([@edames](https://github.com/edames))
+
+---
+
 # v1.0.3 (Thu May 25 2023)
 
 #### ⚠️ Pushed to `main`
