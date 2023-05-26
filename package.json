@@ -2,7 +2,7 @@
   "name": "@edames/storybook-prototype",
   "version": "1.0.8",
   "description": "",
-  "main": "dist/index.js",
+  "main": "stories/index.js",
   "scripts": {
     "build": "cross-env BABEL_ENV=production babel stories -d dist",
     "test": "echo \"Error: no test specified\" && exit 1",
