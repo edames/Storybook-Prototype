@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "release": "./scripts/release.sh"
+    "release": "npx auto shipit"
   },
   "repository": "git+https://github.com/edames/Storybook-Prototype.git",
   "keywords": [],
