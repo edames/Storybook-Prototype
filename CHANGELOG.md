@@ -1,3 +1,15 @@
+# v1.0.7 (Fri May 26 2023)
+
+#### ⚠️ Pushed to `main`
+
+- chore: remove private ([@edames](https://github.com/edames))
+
+#### Authors: 1
+
+- Ehren Dames ([@edames](https://github.com/edames))
+
+---
+
 # v1.0.6 (Fri May 26 2023)
 
 #### ⚠️ Pushed to `main`
