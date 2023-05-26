@@ -1,3 +1,15 @@
+# v1.0.8 (Fri May 26 2023)
+
+#### ⚠️ Pushed to `main`
+
+- chore: fix entry for package ([@edames](https://github.com/edames))
+
+#### Authors: 1
+
+- Ehren Dames ([@edames](https://github.com/edames))
+
+---
+
 # v1.0.7 (Fri May 26 2023)
 
 #### ⚠️ Pushed to `main`
