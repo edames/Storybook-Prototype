@@ -1,3 +1,15 @@
+# v1.0.12 (Fri May 26 2023)
+
+#### ⚠️ Pushed to `main`
+
+- chore: troubleshoot component export ([@edames](https://github.com/edames))
+
+#### Authors: 1
+
+- Ehren Dames ([@edames](https://github.com/edames))
+
+---
+
 # v1.0.11 (Fri May 26 2023)
 
 #### ⚠️ Pushed to `main`
