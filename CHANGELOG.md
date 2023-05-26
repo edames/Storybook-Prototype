@@ -1,3 +1,15 @@
+# v1.0.5 (Fri May 26 2023)
+
+#### ⚠️ Pushed to `main`
+
+- chore: update action versions ([@edames](https://github.com/edames))
+
+#### Authors: 1
+
+- Ehren Dames ([@edames](https://github.com/edames))
+
+---
+
 # v1.0.4 (Thu May 25 2023)
 
 #### ⚠️ Pushed to `main`
