@@ -3,6 +3,9 @@
   "version": "1.0.10",
   "description": "",
   "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "cross-env BABEL_ENV=production babel stories -d dist",
     "test": "echo \"Error: no test specified\" && exit 1",
