@@ -1,3 +1,15 @@
+# v1.0.6 (Fri May 26 2023)
+
+#### ⚠️ Pushed to `main`
+
+- chore: add release task ([@edames](https://github.com/edames))
+
+#### Authors: 1
+
+- Ehren Dames ([@edames](https://github.com/edames))
+
+---
+
 # v1.0.5 (Fri May 26 2023)
 
 #### ⚠️ Pushed to `main`
