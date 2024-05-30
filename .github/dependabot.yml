@@ -4,5 +4,5 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "main"
-    target-branch: "develop"
+      interval: "daily"
+    target-branch: "main"
