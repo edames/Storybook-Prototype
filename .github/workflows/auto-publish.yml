@@ -9,7 +9,7 @@ jobs:
         uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b
       - run: git fetch --unshallow --tags
       - name: Setup node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '16.x'
           registry-url: 'https://npm.pkg.github.com/'
